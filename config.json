@@ -8,7 +8,7 @@
       "protocol": "vless",
       "settings": {
         "clients": [
-          { "id": "把这里换成你生成的UUID" }
+          { "id": "550e8400-e29b-41d4-a716-446655448888" }
         ],
         "decryption": "none"
       },
